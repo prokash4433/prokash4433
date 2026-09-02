@@ -16,11 +16,11 @@ different projects to build my portfolio.
 
 🚀 About Me
 
-- 🔭 Current Focus: Working on Web Development projects
-- 🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS
-- 💻 Interest: Frontend Web Development
-- 🎨 Passion: Creating responsive and modern user interfaces
-- 📚 Goal: Always eager to learn new web technologies
+- 🔭 Current Focus: Working on Web Development projects.
+- 🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS.
+- 💻 Interest: Frontend Web Development.
+- 🎨 Passion: Creating responsive and modern user interfaces.
+- 📚 Goal: Always eager to learn new web technologies.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prokaash734) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prokash6308)     [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prokashdas734@gmail.com) 
