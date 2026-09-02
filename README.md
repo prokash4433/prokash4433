@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/prokash4433/prokash4433/refs/heads/main/Gemini_Generated_Image_d75z9td75z9td75z.jpeg"  />
+</div>
+
 # Hi 👋, I'm <YOUR NAME>  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
