@@ -3,8 +3,24 @@
   <img width="100%" src="https://raw.githubusercontent.com/prokash4433/prokash4433/refs/heads/main/Gemini_Generated_Image_d75z9td75z9td75z.jpeg"  />
 </div>
 
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+# Hi 👋, I'm Prokash Das
+🔗 💻 Beginner Web Developer | Frontend Developer
+
+I'm a passionate beginner web developer who enjoys building responsive, clean, and user-friendly
+websites.
+
+I'm currently learning and improving my skills in modern web development and working on
+different projects to build my portfolio.
+
+---
+
+🚀 About Me
+
+- 🔭 Current Focus: Working on Web Development projects
+- 🌱 Learning: Improving my skills in JavaScript, React.js & Tailwind CSS
+- 💻 Interest: Frontend Web Development
+- 🎨 Passion: Creating responsive and modern user interfaces
+- 📚 Goal: Always eager to learn new web technologies
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/prokaash734) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prokash6308)     [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prokashdas734@gmail.com) 
